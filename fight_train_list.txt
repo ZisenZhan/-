@@ -1,0 +1,4 @@
+/home/aistudio/work/rawframes/fight/V_998 150 1
+/home/aistudio/work/rawframes/nofight/NV_997 152 0
+/home/aistudio/work/rawframes/nofight/NV_998 154 0
+/home/aistudio/work/rawframes/nofight/NV_999 168 0
